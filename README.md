@@ -2,7 +2,7 @@
 A 2D potion making game using libGDX
 
 ## about
-## [Download playable .jar here](../raw/master/gather-alpha-v0.01.jar)
+## [Download playable .jar here](gather-alpha-v0.01.jar)
 (you must have JRE installed)
 
 The objective is to create 8 potions by collecting plants and crafting. 
