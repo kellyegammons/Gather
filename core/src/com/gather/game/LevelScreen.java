@@ -48,7 +48,7 @@ public class LevelScreen extends BaseScreen {
 		 */
 		
 		//labels
-		messageLabel = new Label("Gather 3 plants sto craft 1 potion.", BaseGame.labelStyle);
+		messageLabel = new Label("Gather 3 plants to craft 1 potion.", BaseGame.labelStyle);
 		
 		//grassy background
 		BaseActor grass = new BaseActor(0, 0, mainStage);
